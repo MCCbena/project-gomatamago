@@ -1,5 +1,5 @@
 
--git
+- git
 - Discord
 - intellij idea ultimate
 - PyCharm
